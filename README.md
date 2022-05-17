@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from Morocco 🇲🇦
 
 **About me**
 
-- 💼 industrial thermal engineering and renewable energy at [lho](http🇧🇫)
+- 💼 industrial thermal engineering and renewable energy at [sherpq-engenring](http🇧🇫)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
