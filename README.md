@@ -2,9 +2,8 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Morocco 🇲🇦 
 
-**About me**
+***About me***
 
 - 💼 industrial thermal engineering and renewable energy at [sherpa-engenring](http🇧🇫)
 
