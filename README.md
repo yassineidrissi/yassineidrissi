@@ -6,11 +6,9 @@ I'm a self-taught passionate FrontEnd developer from Morocco 🇲🇦
 
 **About me**
 
-- 💼 industrial thermal engineering and renewable energy at [sherpq-engenring](http🇧🇫)
+- 💼 industrial thermal engineering and renewable energy at [sherpa-engenring](http🇧🇫)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing code, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://t.me/+I5ZaE16I9dljMGQ8)
 
