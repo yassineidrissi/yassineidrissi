@@ -1,6 +1,7 @@
-![1_gReLR6hZjwyBxHmfLN1AVw](https://user-images.githubusercontent.com/92880782/169389468-089a9fb9-812c-4ecc-bff9-e696d5c5c61b.gif)
+![Uploading pixel-jeff-clipa-s.gif…]()
 
-<h1 align="center">Hi 👋, I'm yassine</h1>
+<h1 align="center">Hi 👋, I'm yassine</h1>!
+
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineidrissi&label=Profile%20views&color=0e75b6&style=flat" alt="yassineidrissi" /> </p>
