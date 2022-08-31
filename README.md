@@ -1,13 +1,13 @@
-[Uploading pixel-jeff-clipa-s.gif…]()
 
-<h1 align="center">Hi 👋, I'm yassine</h1>!
+
+<h1 align="center">Hi 👋, I'm yassine</h1>
+<h3 align="center">A passionate Engineer and developer from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineidrissi&label=Profile%20views&color=0e75b6&style=flat" alt="yassineidrissi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassineidrissi" alt="yassineidrissi" /></a> </p>
 
 - 🔭 I’m currently working on [push_swap](https://github.com/yassineidrissi/push_swap)
 
 - 👨‍💻 All of my projects are available at [my portfolio](yassineidrissi.me) and in [Github](https://github.com/yassineidriss/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/yassineidrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassineidrissi" height="30" width="40" /></a>
 <a href="https://fb.com/yassineidrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassineidrissi" height="30" width="40" /></a>
 <a href="https://instagram.com/yassine._.idrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassine._.idrissi" height="30" width="40" /></a>
+<a href="https://discord.gg/@3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@3002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineidrissi&show_icons=true&locale=en" alt="yassineidrissi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassineidrissi&" alt="yassineidrissi" /></p>
