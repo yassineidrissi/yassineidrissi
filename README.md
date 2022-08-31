@@ -1,4 +1,4 @@
-![](https://github.com/yassineidrissi/1337/dex919k-65059397-8304-443b-a63b-1efffd329c4b.gif)
+![](https://github.com/yassineidrissi/1337/blob/main/dex919k-65059397-8304-443b-a63b-1efffd329c4b.gif)
 <h1 align="center">Hi 👋, I'm yassine</h1>
 <h3 align="center">A passionate Engineer and developer from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineidrissi&label=Profile%20views&color=0e75b6&style=flat" alt="yassineidrissi" /> </p>
