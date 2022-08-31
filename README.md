@@ -1,16 +1,13 @@
-![Uploading pixel-jeff-clipa-s.gif…]()
+[Uploading pixel-jeff-clipa-s.gif…]()
 
 <h1 align="center">Hi 👋, I'm yassine</h1>!
-
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineidrissi&label=Profile%20views&color=0e75b6&style=flat" alt="yassineidrissi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassineidrissi" alt="yassineidrissi" /></a> </p>
 
 - 🔭 I’m currently working on [push_swap](https://github.com/yassineidrissi/push_swap)
 
-- 👨‍💻 All of my projects are available at [yassineidrissi.me](yassineidrissi.me)
+- 👨‍💻 All of my projects are available at [my portfolio](yassineidrissi.me) and in [Github](https://github.com/yassineidriss/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
